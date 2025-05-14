@@ -11,7 +11,7 @@
 ### Part 1: Getting Started with GitHub Copilot (15 minutes)
 **Setting Up for Success**
 - Installation and configuration across different IDEs
-  - VS Code, Visual Studio, JetBrains IDEs, Neovim
+  - VS Code, Visual Studio
 - Authentication and subscription options
 - Customizing settings for optimal performance
 - Understanding prompting techniques
