@@ -6,3 +6,5 @@ please create detailed technical documentation for this solution, include descri
 
 # Describe the General Architecture
 describe and define the overall architecture, software components and patterns and practices utilized in this solution for a upcoming blog post  also describe how the code base code be improved for future development
+
+describe and define the functional and technical requirements and describe and define the overall architecture, software components and patterns and practices utilized in this solution
